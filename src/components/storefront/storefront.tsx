@@ -287,17 +287,6 @@ export function Storefront() {
       {/* Background */}
       <div className="pointer-events-none fixed inset-0 opacity-30" style={{ backgroundImage: 'linear-gradient(rgba(96,165,250,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(96,165,250,0.04) 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
 
-      {/* Top announcement bar */}
-      <div className="relative z-20 bg-gradient-to-r from-blue-600 via-violet-600 to-blue-600 text-white">
-        <div className="mx-auto flex max-w-7xl items-center justify-center gap-2 px-4 py-1.5 text-center text-[11px] font-medium lg:text-xs">
-          <Flame className="h-3 w-3 shrink-0 animate-pulse-soft" />
-          <span>
-            <span className="font-bold">FLASH SALE</span> — Get 15% OFF across all digital keys with code{' '}
-            <span className="rounded bg-white/20 px-1.5 py-0.5 font-mono font-bold">PLAYBEAT15</span> · Instant 24/7 Automated Delivery
-          </span>
-        </div>
-      </div>
-
       <PremiumNavbar
         cartCount={cartCount}
         onCartClick={() => setCartOpen(true)}
@@ -951,7 +940,7 @@ function SmartProjectorsSection({ products }: { products: StoreProduct[] }) {
   if (products.length === 0) return null
 
   return (
-    <section className="mx-auto max-w-7xl px-4 py-12 lg:px-6">
+    <section id="projectors" className="mx-auto max-w-7xl px-4 py-12 lg:px-6">
       <div className="mb-8 flex items-center justify-between">
         <div>
           <div className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 px-3 py-1 text-xs font-bold text-cyan-300">

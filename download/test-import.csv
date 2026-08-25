@@ -1,4 +1,0 @@
-sku,name,description,category,price,currency,stock,status,image,digital,tags
-TEST-CSV-1,"Test Product CSV 1","Imported from CSV file",Test,1500,Rs,25,active,,true,"test,csv,import"
-TEST-CSV-2,"Test Product CSV 2","Second imported product",Test,2200,Rs,40,active,,true,"test,csv,import"
-TEST-CSV-3,"Test Product CSV 3","Third imported product",Test,3800,Rs,15,draft,,false,"test,csv,import"

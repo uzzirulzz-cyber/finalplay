@@ -114,6 +114,18 @@ const NAV_LINKS: NavLink[] = [
   { label: 'Deals', href: '/#flash-deals' },
 ]
 
+const PROMO_LINKS = [
+  { label: 'All Assets', href: '/#products' },
+  { label: 'Limited-Time Offers', badge: 'HOT', tone: 'text-amber-300' },
+  { label: 'Flash Deals & Special Offers', badge: '50% OFF', tone: 'text-rose-300', href: '/#flash-deals' },
+  { label: 'Trending This Week', badge: 'TRENDING', tone: 'text-blue-300' },
+  { label: 'Best Sellers', badge: 'BESTSELLER', tone: 'text-yellow-300' },
+  { label: '4K Smart Projectors', badge: 'PROFIT RS 8,000', tone: 'text-cyan-300', href: '/#projectors' },
+  { label: 'Game Coaching', badge: 'G2G LIVE', tone: 'text-violet-300', href: '/contact' },
+  { label: 'Gamepal Companion', badge: 'PRO PLAY', tone: 'text-emerald-300', href: '/contact' },
+  { label: 'Cyber Drops', badge: 'NEW', tone: 'text-sky-300' },
+]
+
 export function PremiumNavbar({ cartCount, onCartClick, onSearchChange }: NavbarProps) {
   const { customer, loading, logout } = useCustomer()
   const [scrolled, setScrolled] = useState(false)
@@ -140,12 +152,13 @@ export function PremiumNavbar({ cartCount, onCartClick, onSearchChange }: Navbar
   return (
     <>
       {/* Announcement bar */}
-      <div className="relative z-30 bg-gradient-to-r from-blue-600 via-violet-600 to-blue-600 text-white">
-        <div className="mx-auto flex max-w-7xl items-center justify-center gap-2 px-4 py-1.5 text-center text-[11px] font-medium lg:text-xs">
-          <Zap className="h-3 w-3 shrink-0 animate-pulse-soft" />
+      <div className="relative z-30 overflow-hidden border-b border-slate-500/20 bg-[#0c111d] text-slate-100">
+        <div className="pointer-events-none absolute inset-y-0 left-0 w-1/3 animate-shimmer bg-gradient-to-r from-transparent via-sky-300/10 to-transparent" />
+        <div className="relative mx-auto flex max-w-7xl items-center justify-center gap-2 px-4 py-1.5 text-center text-[11px] font-medium lg:text-xs">
+          <Zap className="h-3 w-3 shrink-0 text-sky-300 animate-pulse-soft" />
           <span>
-            <span className="font-bold">FLASH SALE</span> — Get 15% OFF with code{' '}
-            <span className="rounded bg-white/20 px-1.5 py-0.5 font-mono font-bold">PLAYBEAT15</span> · Instant 24/7 Delivery
+            <span className="font-bold text-slate-200">FLASH SALE</span> — Get 15% OFF across all digital keys with code{' '}
+            <span className="rounded border border-slate-400/30 bg-slate-200/10 px-1.5 py-0.5 font-mono font-bold text-slate-100">PLAYBEAT15</span> · Instant 24/7 Automated Delivery
           </span>
         </div>
       </div>
@@ -161,8 +174,8 @@ export function PremiumNavbar({ cartCount, onCartClick, onSearchChange }: Navbar
         <div className={cn('mx-auto flex max-w-7xl items-center justify-between px-4 transition-all lg:px-6', scrolled ? 'h-14' : 'h-16')}>
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 transition hover:opacity-90">
-            <div className="grid h-9 w-9 shrink-0 place-items-center overflow-hidden rounded-xl bg-white shadow-lg shadow-blue-500/20">
-              <img src="/playbeat-logo.png" alt="PlayBeat" className="h-7 w-7 object-contain" />
+            <div className="grid h-11 w-24 shrink-0 place-items-center overflow-hidden rounded-xl bg-black/20 shadow-lg shadow-sky-500/20 transition group-hover:shadow-sky-300/40">
+              <img src="/playbeat-logo.png" alt="PlayBeat Digital" className="h-10 w-full object-contain" />
             </div>
             <div className="hidden leading-tight sm:block">
               <div className="flex items-center gap-1">
@@ -379,6 +392,24 @@ export function PremiumNavbar({ cartCount, onCartClick, onSearchChange }: Navbar
           </div>
         )}
       </header>
+
+      <nav className="relative z-20 hidden overflow-x-auto border-b border-slate-500/20 bg-[#0b1220]/95 shadow-[0_8px_24px_rgba(14,165,233,0.08)] backdrop-blur-xl lg:block">
+        <div className="mx-auto flex min-w-max max-w-[1600px] items-center justify-center gap-1 px-4 py-2">
+          {PROMO_LINKS.map((item) => {
+            const content = (
+              <>
+                <span className="whitespace-nowrap text-[11px] font-semibold text-slate-300 transition group-hover:text-slate-100">{item.label}</span>
+                {item.badge && <span className={cn('rounded border border-current/20 bg-current/10 px-1.5 py-0.5 text-[8px] font-bold tracking-wide', item.tone)}>{item.badge}</span>}
+              </>
+            )
+            return item.href ? (
+              <Link key={item.label} href={item.href} className="group flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 transition hover:bg-white/5">{content}</Link>
+            ) : (
+              <span key={item.label} className="group flex items-center gap-1.5 rounded-lg px-2.5 py-1.5">{content}</span>
+            )
+          })}
+        </div>
+      </nav>
 
       {/* Mobile drawer */}
       {mobileOpen && (
