@@ -1,0 +1,1446 @@
+[
+  {
+    "sku": "AI-001",
+    "name": "Cursor AI Pro Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Cursor AI Pro Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 31.2,
+    "originalPrice": 31.2,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-002",
+    "name": "Cursor AI Pro Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Cursor AI Pro Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 30.98,
+    "originalPrice": 30.98,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-003",
+    "name": "Cursor AI Pro+ Plan Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Cursor AI Pro+ Plan Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 436.77,
+    "originalPrice": 436.77,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-004",
+    "name": "Cursor AI Ultra Plan Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Cursor AI Ultra Plan Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 1069.64,
+    "originalPrice": 1069.64,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-005",
+    "name": "Claude Pro Subscription 1 Month — Shared Account (Global)",
+    "description": "Digital product — Claude Pro Subscription 1 Month — Shared Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 7.61,
+    "originalPrice": 7.61,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-006",
+    "name": "Claude Pro Subscription 1 Month — Shared Account (Global)",
+    "description": "Digital product — Claude Pro Subscription 1 Month — Shared Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 12.99,
+    "originalPrice": 12.99,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-007",
+    "name": "Claude Pro Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Claude Pro Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 157.17,
+    "originalPrice": 157.17,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-008",
+    "name": "Claude Pro Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Claude Pro Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 204.92,
+    "originalPrice": 204.92,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-009",
+    "name": "Grok SuperGrok Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Grok SuperGrok Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 9.75,
+    "originalPrice": 9.75,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-010",
+    "name": "Grok SuperGrok Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Grok SuperGrok Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 23.39,
+    "originalPrice": 23.39,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-011",
+    "name": "Grok SuperGrok Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Grok SuperGrok Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 27.3,
+    "originalPrice": 27.3,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-012",
+    "name": "Grok SuperGrok Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Grok SuperGrok Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 36.39,
+    "originalPrice": 36.39,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-013",
+    "name": "Lovable AI Pro Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Lovable AI Pro Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 8.92,
+    "originalPrice": 8.92,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-014",
+    "name": "Google AI Pro 5TB + Gemini Advanced Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — Google AI Pro 5TB + Gemini Advanced Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 8.92,
+    "originalPrice": 8.92,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-015",
+    "name": "Google AI Pro Subscription 1 Month — Shared Account (Global)",
+    "description": "Digital product — Google AI Pro Subscription 1 Month — Shared Account (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 9.31,
+    "originalPrice": 9.31,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "AI-016",
+    "name": "Google Storage 5 TB Subscription 1 Month — Activation Link (Global)",
+    "description": "Digital product — Google Storage 5 TB Subscription 1 Month — Activation Link (Global). Instant delivery after payment verification.",
+    "category": "AI & Productivity",
+    "priceUSD": 4.46,
+    "originalPrice": 4.46,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "ai",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-001",
+    "name": "Gmail Phone Verified Account",
+    "description": "Digital product — Gmail Phone Verified Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.25,
+    "originalPrice": 0.25,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-002",
+    "name": "Outlook Phone Verified Account",
+    "description": "Digital product — Outlook Phone Verified Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.17,
+    "originalPrice": 0.17,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-003",
+    "name": "Hotmail Phone Verified Account",
+    "description": "Digital product — Hotmail Phone Verified Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.18,
+    "originalPrice": 0.18,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-004",
+    "name": "Hotmail New Account",
+    "description": "Digital product — Hotmail New Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.18,
+    "originalPrice": 0.18,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-005",
+    "name": "Mail New Account",
+    "description": "Digital product — Mail New Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.35,
+    "originalPrice": 0.35,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-006",
+    "name": "Firstmail New Account",
+    "description": "Digital product — Firstmail New Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.09,
+    "originalPrice": 0.09,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-007",
+    "name": "GMX Email New Account",
+    "description": "Digital product — GMX Email New Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.81,
+    "originalPrice": 0.81,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-008",
+    "name": "GMX Email 1 Month+ Account",
+    "description": "Digital product — GMX Email 1 Month+ Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 1.6,
+    "originalPrice": 1.6,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "EML-009",
+    "name": "Rambler Mail New Account",
+    "description": "Digital product — Rambler Mail New Account. Instant delivery after payment verification.",
+    "category": "Email Accounts",
+    "priceUSD": 0.18,
+    "originalPrice": 0.18,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "email",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-001",
+    "name": "Sptfy Gift Card USD 60 (US)",
+    "description": "Digital product — Sptfy Gift Card USD 60 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 78,
+    "originalPrice": 78,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-002",
+    "name": "Sptfy Gift Card EUR 60 (NL)",
+    "description": "Digital product — Sptfy Gift Card EUR 60 (NL). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 84.24,
+    "originalPrice": 78,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "nl"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-003",
+    "name": "NFLX Gift Card USD 15 (US)",
+    "description": "Digital product — NFLX Gift Card USD 15 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 19.5,
+    "originalPrice": 19.5,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-004",
+    "name": "NFLX Gift Card USD 20 (US)",
+    "description": "Digital product — NFLX Gift Card USD 20 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 26,
+    "originalPrice": 26,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-005",
+    "name": "NFLX Gift Card USD 25 (US)",
+    "description": "Digital product — NFLX Gift Card USD 25 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 32.5,
+    "originalPrice": 32.5,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-006",
+    "name": "NFLX Gift Card USD 30 (US)",
+    "description": "Digital product — NFLX Gift Card USD 30 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 39,
+    "originalPrice": 39,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-007",
+    "name": "NFLX Gift Card USD 50 (US)",
+    "description": "Digital product — NFLX Gift Card USD 50 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 65,
+    "originalPrice": 65,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-008",
+    "name": "NFLX Gift Card USD 60 (US)",
+    "description": "Digital product — NFLX Gift Card USD 60 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 78,
+    "originalPrice": 78,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-009",
+    "name": "NFLX Gift Card USD 100 (US)",
+    "description": "Digital product — NFLX Gift Card USD 100 (US). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 130,
+    "originalPrice": 130,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-010",
+    "name": "NFLX Gift Card EUR 25 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 25 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 35.1,
+    "originalPrice": 32.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-011",
+    "name": "NFLX Gift Card EUR 30 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 30 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 42.12,
+    "originalPrice": 39,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-012",
+    "name": "NFLX Gift Card EUR 35 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 35 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 49.14,
+    "originalPrice": 45.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-013",
+    "name": "NFLX Gift Card EUR 40 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 40 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 56.16,
+    "originalPrice": 52,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-014",
+    "name": "NFLX Gift Card EUR 45 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 45 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 63.18,
+    "originalPrice": 58.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-015",
+    "name": "NFLX Gift Card EUR 50 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 50 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 70.2,
+    "originalPrice": 65,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-016",
+    "name": "NFLX Gift Card EUR 75 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 75 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 105.3,
+    "originalPrice": 97.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-017",
+    "name": "NFLX Gift Card EUR 100 (EU)",
+    "description": "Digital product — NFLX Gift Card EUR 100 (EU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 140.4,
+    "originalPrice": 130,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-018",
+    "name": "NFLX Gift Card EUR 25 (FR)",
+    "description": "Digital product — NFLX Gift Card EUR 25 (FR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 35.1,
+    "originalPrice": 32.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "fr"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-019",
+    "name": "NFLX Gift Card EUR 25 (PT)",
+    "description": "Digital product — NFLX Gift Card EUR 25 (PT). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 35.1,
+    "originalPrice": 32.5,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "pt"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-020",
+    "name": "NFLX Gift Card EUR 50 (DE)",
+    "description": "Digital product — NFLX Gift Card EUR 50 (DE). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 70.2,
+    "originalPrice": 65,
+    "originalCurrency": "EUR",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "de"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-021",
+    "name": "NFLX Gift Card GBP 25 (UK)",
+    "description": "Digital product — NFLX Gift Card GBP 25 (UK). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 41.28,
+    "originalPrice": 32.5,
+    "originalCurrency": "GBP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "uk"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-022",
+    "name": "NFLX Gift Card TRY 750 (TR)",
+    "description": "Digital product — NFLX Gift Card TRY 750 (TR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 28.28,
+    "originalPrice": 975,
+    "originalCurrency": "TRY",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "tr"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-023",
+    "name": "NFLX Gift Card JPY 5,000 (JP)",
+    "description": "Digital product — NFLX Gift Card JPY 5,000 (JP). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 43.55,
+    "originalPrice": 6500,
+    "originalCurrency": "JPY",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "jp"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-024",
+    "name": "NFLX Gift Card AUD 30 (AU)",
+    "description": "Digital product — NFLX Gift Card AUD 30 (AU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 25.74,
+    "originalPrice": 39,
+    "originalCurrency": "AUD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "au"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-025",
+    "name": "NFLX Gift Card AUD 50 (AU)",
+    "description": "Digital product — NFLX Gift Card AUD 50 (AU). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 42.9,
+    "originalPrice": 65,
+    "originalCurrency": "AUD",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "au"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-026",
+    "name": "NFLX Gift Card BRL 35 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 35 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 8.19,
+    "originalPrice": 45.5,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-027",
+    "name": "NFLX Gift Card BRL 50 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 50 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 11.7,
+    "originalPrice": 65,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-028",
+    "name": "NFLX Gift Card BRL 60 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 60 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 14.04,
+    "originalPrice": 78,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-029",
+    "name": "NFLX Gift Card BRL 70 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 70 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 16.38,
+    "originalPrice": 91,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-030",
+    "name": "NFLX Gift Card BRL 75 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 75 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 17.55,
+    "originalPrice": 97.5,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-031",
+    "name": "NFLX Gift Card BRL 100 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 100 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 23.4,
+    "originalPrice": 130,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-032",
+    "name": "NFLX Gift Card BRL 200 (BR)",
+    "description": "Digital product — NFLX Gift Card BRL 200 (BR). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 46.8,
+    "originalPrice": 260,
+    "originalCurrency": "BRL",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "br"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-033",
+    "name": "NFLX Gift Card COP 20,000 (CO)",
+    "description": "Digital product — NFLX Gift Card COP 20,000 (CO). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 6.5,
+    "originalPrice": 26000,
+    "originalCurrency": "COP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "co"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-034",
+    "name": "NFLX Gift Card COP 30,000 (CO)",
+    "description": "Digital product — NFLX Gift Card COP 30,000 (CO). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 9.75,
+    "originalPrice": 39000,
+    "originalCurrency": "COP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "co"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-035",
+    "name": "NFLX Gift Card COP 35,000 (CO)",
+    "description": "Digital product — NFLX Gift Card COP 35,000 (CO). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 11.38,
+    "originalPrice": 45500,
+    "originalCurrency": "COP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "co"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-036",
+    "name": "NFLX Gift Card COP 40,000 (CO)",
+    "description": "Digital product — NFLX Gift Card COP 40,000 (CO). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 13,
+    "originalPrice": 52000,
+    "originalCurrency": "COP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "co"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-037",
+    "name": "NFLX Gift Card COP 50,000 (CO)",
+    "description": "Digital product — NFLX Gift Card COP 50,000 (CO). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 16.25,
+    "originalPrice": 65000,
+    "originalCurrency": "COP",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "co"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-038",
+    "name": "NFLX Gift Card MXN 500 (MX)",
+    "description": "Digital product — NFLX Gift Card MXN 500 (MX). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 37.7,
+    "originalPrice": 650,
+    "originalCurrency": "MXN",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "mx"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "GC-039",
+    "name": "NFLX Gift Card MXN 750 (MX)",
+    "description": "Digital product — NFLX Gift Card MXN 750 (MX). Instant delivery after payment verification.",
+    "category": "Gift Cards",
+    "priceUSD": 56.55,
+    "originalPrice": 975,
+    "originalCurrency": "MXN",
+    "digital": true,
+    "tags": [
+      "giftcard",
+      "mx"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-001",
+    "name": "5Glive IPTV Premium Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 1.95,
+    "originalPrice": 1.95,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-002",
+    "name": "5Glive IPTV Premium Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 2.59,
+    "originalPrice": 2.59,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-003",
+    "name": "5Glive IPTV Premium Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 2.6,
+    "originalPrice": 2.6,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-004",
+    "name": "5Glive IPTV Premium Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 2.99,
+    "originalPrice": 2.99,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-005",
+    "name": "5Glive IPTV Premium Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 3.19,
+    "originalPrice": 3.19,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-006",
+    "name": "5Glive IPTV Premium Subscription 6 Months — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 6 Months — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 12.99,
+    "originalPrice": 12.99,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-007",
+    "name": "5Glive IPTV Premium Subscription 6 Months — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 6 Months — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 14.39,
+    "originalPrice": 14.39,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "IPTV-008",
+    "name": "5Glive IPTV Premium Subscription 12 Months — Private Account (Global)",
+    "description": "Digital product — 5Glive IPTV Premium Subscription 12 Months — Private Account (Global). Instant delivery after payment verification.",
+    "category": "IPTV",
+    "priceUSD": 24.57,
+    "originalPrice": 24.57,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "iptv",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "STR-001",
+    "name": "NFLX 4K UHD Premium Shared 1 Month Account",
+    "description": "Digital product — NFLX 4K UHD Premium Shared 1 Month Account. Instant delivery after payment verification.",
+    "category": "Streaming Accounts",
+    "priceUSD": 0.98,
+    "originalPrice": 0.98,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "streaming",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "STR-002",
+    "name": "NFLX 4K UHD Premium Shared 1 Month Account",
+    "description": "Digital product — NFLX 4K UHD Premium Shared 1 Month Account. Instant delivery after payment verification.",
+    "category": "Streaming Accounts",
+    "priceUSD": 1.3,
+    "originalPrice": 1.3,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "streaming",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "STR-003",
+    "name": "NFLX 4K UHD Premium Shared 1 Month Account",
+    "description": "Digital product — NFLX 4K UHD Premium Shared 1 Month Account. Instant delivery after payment verification.",
+    "category": "Streaming Accounts",
+    "priceUSD": 1.95,
+    "originalPrice": 1.95,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "streaming",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "STR-004",
+    "name": "NFLX 4K UHD Premium Personal 1 Month Account",
+    "description": "Digital product — NFLX 4K UHD Premium Personal 1 Month Account. Instant delivery after payment verification.",
+    "category": "Streaming Accounts",
+    "priceUSD": 3.9,
+    "originalPrice": 3.9,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "streaming",
+      "account"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-001",
+    "name": "CapCut Pro Subscription (iOS, Android, PC) 1 Month — Private Account (Global)",
+    "description": "Digital product — CapCut Pro Subscription (iOS, Android, PC) 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 1.43,
+    "originalPrice": 1.43,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-002",
+    "name": "CapCut Pro Subscription (iOS, Android, PC) 1 Month — Private Account (Global)",
+    "description": "Digital product — CapCut Pro Subscription (iOS, Android, PC) 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 3,
+    "originalPrice": 3,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-003",
+    "name": "CapCut Pro Subscription (Browser, PC) 1 Month — Private Account (Global)",
+    "description": "Digital product — CapCut Pro Subscription (Browser, PC) 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 8.92,
+    "originalPrice": 8.92,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-004",
+    "name": "CapCut Team Subscription 1 Month — Private Account (Global)",
+    "description": "Digital product — CapCut Team Subscription 1 Month — Private Account (Global). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 11.06,
+    "originalPrice": 11.06,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "global"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-005",
+    "name": "CapCut Pro Subscription 1 Month (US)",
+    "description": "Digital product — CapCut Pro Subscription 1 Month (US). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 11.7,
+    "originalPrice": 11.7,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-006",
+    "name": "CapCut Pro Subscription 1 Month (US)",
+    "description": "Digital product — CapCut Pro Subscription 1 Month (US). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 80.22,
+    "originalPrice": 80.22,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-007",
+    "name": "CapCut Pro Subscription 1 Month (EU)",
+    "description": "Digital product — CapCut Pro Subscription 1 Month (EU). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 20.79,
+    "originalPrice": 20.79,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-008",
+    "name": "CapCut Pro Subscription 1 Month (EU)",
+    "description": "Digital product — CapCut Pro Subscription 1 Month (EU). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 133.61,
+    "originalPrice": 133.61,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-009",
+    "name": "CapCut Standard Subscription 1 Month (US)",
+    "description": "Digital product — CapCut Standard Subscription 1 Month (US). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 44.47,
+    "originalPrice": 44.47,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "us"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-010",
+    "name": "CapCut Standard Subscription 1 Month (EU)",
+    "description": "Digital product — CapCut Standard Subscription 1 Month (EU). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 71.21,
+    "originalPrice": 71.21,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "eu"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-011",
+    "name": "CapCut Standard Subscription 1 Month (UK)",
+    "description": "Digital product — CapCut Standard Subscription 1 Month (UK). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 89.05,
+    "originalPrice": 89.05,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "uk"
+    ],
+    "stock": 100,
+    "status": "active"
+  },
+  {
+    "sku": "CC-012",
+    "name": "CapCut Pro Subscription 1 Month (UK)",
+    "description": "Digital product — CapCut Pro Subscription 1 Month (UK). Instant delivery after payment verification.",
+    "category": "Video Editing",
+    "priceUSD": 133.61,
+    "originalPrice": 133.61,
+    "originalCurrency": "USD",
+    "digital": true,
+    "tags": [
+      "capcut",
+      "subscription",
+      "uk"
+    ],
+    "stock": 100,
+    "status": "active"
+  }
+]

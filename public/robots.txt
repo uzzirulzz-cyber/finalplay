@@ -1,0 +1,29 @@
+# PlayBeat Digital — robots.txt
+# Allow all crawlers full access to public storefront and legal pages
+# Disallow admin and API routes from indexing
+
+User-agent: *
+Allow: /
+Allow: /storefront
+Allow: /legal
+Allow: /contact
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+
+# Sitemap
+Sitemap: https://playbeat.digital/sitemap.xml
+
+# Googlebot specific
+User-agent: Googlebot
+Allow: /
+Allow: /storefront
+Allow: /legal
+Allow: /contact
+Disallow: /admin
+Disallow: /api/
+Disallow: /login
+
+# Crawl delay for fairness
+Crawl-delay: 1
